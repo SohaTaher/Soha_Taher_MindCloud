@@ -18,6 +18,5 @@ git clone https://github.com/SohaTaher/Soha_Taher_MindCloud.git
 # The required screenshots
 ## Commits
 ![Commits](Commits.png)
-
-
-
+## Pull request
+![pull request](PullRequest.png)
